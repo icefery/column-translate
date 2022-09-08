@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bing-translate-api": "^2.6.0",
+    "pinyin-pro": "^3.11.0"
+  }
+}
